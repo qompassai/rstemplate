@@ -9,7 +9,7 @@ authors:
 version: "v2025-05-04"
 date-released: "2025-05-04"
 repository-code: "https://github.com/qompassai/rstemplate"
-license: "Q-CDA-1.0"
+license: "Apache-2.0"
 keywords:
   - AI
   - Education
